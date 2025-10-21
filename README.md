@@ -1,4 +1,4 @@
-# Script_Library
+# Script_Faucetpay.io
 ### Here I will create more than hundreds of scripts
 I may not be able to check the scripts one by one, so if you experience an error, you can enter my group on Telegram and tell me about the problem that occurred and don't forget to screenshot the error to make it easier to check.
 
